@@ -1,2 +1,3 @@
 # tem
-tem repo
+tem repo for git commands demonstration
+
